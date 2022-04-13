@@ -1,3 +1,8 @@
-12/4
-Test?
-Test with detailed description
+13/4
+
+PHP LÀ GÌ?
+TẠI SAO NÊN DÙNG PHP?
+PHP KHÁC GÌ NGÔN NGỮ KHÁC
+KHẢ NĂNG KẾT HỢP PHP VÀ JAVASCRIPT
+WEB SERVER LÀ GÌ?
+WEB SERVER HOẠT ĐỘNG NTN?
