@@ -1,13 +1,14 @@
 13/4
 PHP LÀ GÌ?
 TẠI SAO NÊN DÙNG PHP?
-PHP KHÁC GÌ NGÔN NGỮ KHÁC
+ĐẶC ĐIỂM NỐI BẬT CỦA PHP? p2
 KHẢ NĂNG KẾT HỢP PHP VÀ JAVASCRIPT
 WEB SERVER LÀ GÌ?
 WEB SERVER HOẠT ĐỘNG NTN?
 
 14/4
 DEMO DỰ ÁN PHP BẰNG NETBEANS p5
+	. tên miền để chạy file PHP là gì?
 
 CÚ PHÁP ĐỂ CODE PHP HỢP LỆ p6
 CÁCH COMMENT TRONG PHP p6
@@ -23,5 +24,26 @@ CÁC LOẠI TOÁN TỬ TRONG PHP p8
 TOÁN TỬ == VÀ TOÁN TỬ ===
 CHUỖI TRONG PHP
 
-MẢNG LÀ GÌ? p9
+MẢNG LÀ GÌ? p9 
 CÁC LOẠI MẢNG TRONG PHP
+
+CÂU ĐIỀU KIỆN TRONG PHP? p10
+	. switch case được dùng khi nào?
+	. tại sao cần dùng break.
+
+HÀM LÀ GÌ? CÓ MẤY LOẠI HÀM? p10
+THAM TRỊ VÀ THAM CHIẾU TRONG HÀM?
+ĐỐI SỐ CÓ ĐỘ DÀI BIẾN ĐỔI
+REQUIRE VÀ INCLUDE TRONG PHP? p11
+	. require, require_once, include và include_once ?
+	. khác nhau giữa require và include ?
+
+KỂ TÊN CÁC VÒNG LẶP TRONG PHP
+	. lặp mảng chỉ in ra value thì làm ntn?
+	. lặp 1 mảng có in ra cả index và value thì ntn?
+
+
+
+
+
+
