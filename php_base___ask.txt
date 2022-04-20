@@ -38,12 +38,18 @@ REQUIRE VÀ INCLUDE TRONG PHP? p11
 	. require, require_once, include và include_once ?
 	. khác nhau giữa require và include ?
 
-KỂ TÊN CÁC VÒNG LẶP TRONG PHP
+KỂ TÊN CÁC VÒNG LẶP TRONG PHP?
 	. lặp mảng chỉ in ra value thì làm ntn?
 	. lặp 1 mảng có in ra cả index và value thì ntn?
 
-
-
+20/4
+GET VÀ POST DÙNG ĐỂ LÀM GÌ?
+TRÌNH BÀY VỀ PHƯƠNG THỨC GET TRONG PHP? p12
+PHƯƠNG THỨC POST TRONG PHP? p13
+CÁC ĐỂ KIỂM TRA DỮ LIỆU CÓ TỒN TẠI TRONG MẢNG? p13
+SO SÁNH GIỮA GET VÀ POST? p14
+KHI NÀO DÙNG GET - POST? p14
+CÓ MẤY CÁCH ĐỂ GỬI REQUEST POST LÊN SERVER? p15
 
 
 
