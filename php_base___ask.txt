@@ -50,6 +50,17 @@ CÁC ĐỂ KIỂM TRA DỮ LIỆU CÓ TỒN TẠI TRONG MẢNG? p13
 SO SÁNH GIỮA GET VÀ POST? p14
 KHI NÀO DÙNG GET - POST? p14
 CÓ MẤY CÁCH ĐỂ GỬI REQUEST POST LÊN SERVER? p15
+CÁCH UPLOAD FILE LÊN SERVER?
 
+22/4
+COOKIE VÀ SESSION LÀ GÌ?
+CHI TIẾT SESSION TRONG PHP?
+	. Đăng ký session
+	. Lưu trữ session
+	. Xóa session
+CHI TIẾT COOKIE TRONG PHP?
+	. Lưu trữ Cookie
+	. Lấy giá trị Cookie
+	. Xóa Cookie
 
 
